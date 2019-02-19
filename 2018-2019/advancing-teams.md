@@ -25,7 +25,7 @@ List current as of 14 February 2019.
 | 34175 | Roadrunner Robotics | Yes |
 | 34498 | RoBo Warriors | Yes |
 | 35853 | HES Creative Cats | Yes |
-| 38432 | PrideBots2 | Yes |
+| 38432 | Pride Bots 2.0 | Yes |
 | 38472 | Coosa Coders | Yes |
 | 38545 | LiveWire Micro-chips | Yes |
 | 38706 | Space Chimps | Yes |
