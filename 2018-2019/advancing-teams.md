@@ -19,7 +19,7 @@ List current as of 14 February 2019.
 | 30015 | TigerBot Team Zoidbergs | Yes |
 | 31454 | Galaxy Girls | Yes |
 | 31834 | Space Anonymous | |
-| 32309 | Skyrockets | |
+| 32309 | Skyrockets | Yes |
 | 32313 | Patriotic Robotics Blue | |
 | 33322 | Blossomwood Elementary | |
 | 34175 | Roadrunner Robotics | Yes |
@@ -32,7 +32,7 @@ List current as of 14 February 2019.
 | 39133 | Libertas Lions | Yes |
 | 39227 | Team Lord of the Fries | Yes |
 | 39374 | C.R.A.B. (Cool Robots And Builders) | Yes |
-| 39697 | Huntsville Smarties | |
+| 39697 | Huntsville Smarties | Yes |
 | 40118 | LEGOTRONS | |
 | 41104 | High Altitude - Decatur Middle | Yes |	
 | 41886 | Blue Dragon Space Chasers | Yes |
