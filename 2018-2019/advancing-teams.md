@@ -33,7 +33,6 @@ List current as of 14 February 2019.
 | 39227 | Team Lord of the Fries | Yes |
 | 39374 | C.R.A.B. (Cool Robots And Builders) | Yes |
 | 39697 | Huntsville Smarties | Yes |
-| 40118 | LEGOTRONS | |
 | 41104 | High Altitude - Decatur Middle | Yes |	
 | 41886 | Blue Dragon Space Chasers | Yes |
 | 42122 | Wild Things | Yes |
