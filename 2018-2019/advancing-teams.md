@@ -11,16 +11,16 @@ List current as of 14 February 2019.
 | 16965 | Gigawatts | Yes |
 | 17883 | 4D.Fusion | Yes |
 | 18238 | High Voltage | Yes |
-| 19234 | Astro-Girls | |
+| 19234 | Astro-Girls | Yes |
 | 24610 | Short Circuits | Yes |
 | 24661 | Houston, We Solved The Problem | Yes |
 | 27338 | STJ Middle School Robotics | Yes |
 | 29294 | Monte Sano Robo sapienettes | Yes |
 | 30015 | TigerBot Team Zoidbergs | Yes |
 | 31454 | Galaxy Girls | Yes |
-| 31834 | Space Anonymous | |
+| 31834 | Space Anonymous | Yes |
 | 32309 | Skyrockets | Yes |
-| 32313 | Patriotic Robotics Blue | |
+| 32313 | Patriotic Robotics Blue | Yes |
 | 33322 | Blossomwood Elementary | |
 | 34175 | Roadrunner Robotics | Yes |
 | 34498 | RoBo Warriors | Yes |
@@ -36,4 +36,4 @@ List current as of 14 February 2019.
 | 41104 | High Altitude - Decatur Middle | Yes |	
 | 41886 | Blue Dragon Space Chasers | Yes |
 | 42122 | Wild Things | Yes |
-| 42146 | ROBO Crew | |
+| 42146 | ROBO Crew | Yes |
