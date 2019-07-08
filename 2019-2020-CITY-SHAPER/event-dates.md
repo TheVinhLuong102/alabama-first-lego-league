@@ -26,6 +26,10 @@ January 25, 2020
 - FIRST&reg; LEGO&reg; League Alabama Championship
     - Location TBA
     - Schedule TBA
+    
+April 1-4, 2020
+- FIRST&reg; Robotics Competition Rocket City Regional
+    - von Braun Center, Huntsville, AL
 
 April 4, 2020
 - FIRST&reg; LEGO&reg; League Jr. Alabama Expo
