@@ -9,6 +9,9 @@ August 24, 2019
     - ADTRAN, Huntsville, AL
     - Schedule TBA
     - Remote Access TBA
+    
+September 7, 2019
+- *FIRST*<sup>&reg;</sup> Tech Challenge Kickoff
 
 November 9, 2019
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifying Event(s) (TBA)
@@ -21,6 +24,9 @@ December 7, 2019
 
 December 16, 2019
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifying Event(s) (TBA)
+
+January 4, 2020
+- *FIRST*<sup>&reg;</sup> Robotics Competition Kickoff
 
 January 25, 2020
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Alabama Championship
