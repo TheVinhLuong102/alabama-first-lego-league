@@ -7,7 +7,7 @@ August 1, 2019
 August 24, 2019
 - Coaches Workshop (FLL and FLL Jr.)
     - ADTRAN, Huntsville, AL
-    - Schedule TBA
+    - 1:00 PM to 4:00 PM (CDT)
     - Remote Access TBA
     
 September 7, 2019
