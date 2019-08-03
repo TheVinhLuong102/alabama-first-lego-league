@@ -45,7 +45,7 @@ If you've been with us before, this is what we **used to call** Home. This is th
 
 ## Home Is Different!
 
-If you've been with us before, you'll notice the mats are smaller! When aligned properly, there will be an area on the west end of the table that is not covered by the mat. This entire open area is Home.
+If you've been with us before, you'll notice the mats are smaller! When aligned properly, there will be an area on the west end of the table that is not covered by the mat. This entire open area is Home. Notice that Home does **not** include the Launch Area.
 
 
 ## Mat Placement
