@@ -1,14 +1,19 @@
 # Event Dates
 
-August 1, 2019
-- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League and *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Jr. Challenge Release
-    - Global Event
+~~August 1, 2019~~
+- ~~FLL and FLL Jr. Challenge Release~~
+
+August 15, 2019
+- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Challenge Broadcast
+  - Global Event
+  - 11 AM (CDT)
+  - https://www.twitch.tv/firstinspires
 
 August 24, 2019
 - Coaches Workshop (FLL and FLL Jr.)
-    - ADTRAN, Huntsville, AL
-    - 1:00 PM to 4:00 PM (CDT)
-    - Remote Access TBA
+  - ADTRAN, Huntsville, AL
+  - 1:00 PM to 4:00 PM (CDT)
+  - Remote Access TBA
     
 September 7, 2019
 - *FIRST*<sup>&reg;</sup> Tech Challenge Kickoff
@@ -30,14 +35,14 @@ January 4, 2020
 
 January 25, 2020
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Alabama Championship
-    - Location TBA
-    - Schedule TBA
+  - Location TBA
+  - Schedule TBA
     
 April 1-4, 2020
 - *FIRST*<sup>&reg;</sup> Robotics Competition Rocket City Regional
-    - von Braun Center, Huntsville, AL
+  - von Braun Center, Huntsville, AL
 
 April 4, 2020
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Jr. Alabama Expo
-    - von Braun Center, Huntsville, AL
-    - Schedule TBA
+  - von Braun Center, Huntsville, AL
+  - Schedule TBA
