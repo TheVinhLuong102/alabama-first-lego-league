@@ -18,6 +18,17 @@ August 24, 2019
 September 7, 2019
 - *FIRST*<sup>&reg;</sup> Tech Challenge Kickoff
 
+Late September 2019
+- Mechanical and Programming Workshop for Coaches (FLL and FLL Jr.)
+  - ADTRAN, Huntsville, AL
+  - More details TBA
+
+Late October 2019
+- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Fun Scrimmage Event
+  - ADTRAN, Huntsville, AL
+  - Satellite Locations TBA
+  - More details TBA
+
 November 9, 2019
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifying Event(s) (TBA)
 
