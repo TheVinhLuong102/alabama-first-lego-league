@@ -79,7 +79,7 @@ The new area designations (Home and Launch Area) will affect how we handle inter
 
 The definition of an interruption has not changed. When you tell the robot to GO, the next time you touch the robot counts as an interruption. If the robot is completely in **Home**, then it's a safe interruption. 
 
-In addition to interrupting while completely in Home, it is safe to touch the robot during a Launch preparation. Launch is when you make the robot GO, **not** when it leaves the Launch Area. Therefore, if you press GO and touch the robot **before** or **after** it leaves the Launch Area, you will lose a Precision Token, unless the robot is completely in **Home**.
+In addition to interrupting while completely in Home, it is safe to touch the robot during a Launch preparation. Launch is when you make the robot GO, **not** when it leaves the Launch Area. If you interrupt the robot **after** pressing GO but **before** it reaches the Launch Area perimeter line, you will **not** lose a Precision Token. If the robot **has reached** the Launch Area perimeter line, you **will** lose a Precision Token.
 
 
 ## Cargo and Interruptions
