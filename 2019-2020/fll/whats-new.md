@@ -88,6 +88,6 @@ The interruption rules and Launch Area designation will also how we handle any C
 
 If you interrupt the robot, you might lose the Cargo.
 
-*Where did the robot get the Cargo?* If the robot got the Cargo in the Launch Area, you can keep it! If not, it depends on the interruption.
+*Where did the robot get the Cargo?* If the robot got the Cargo in the Launch Area from the latest Launch, you can keep it! If not, it depends on the interruption.
 
 *Where was the **Cargo** when the robot was interrupted?* If the **Cargo** is completely in Home, you can keep it! If not, the referee takes it.
