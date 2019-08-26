@@ -3,17 +3,11 @@
 ~~August 1, 2019~~
 - ~~FLL and FLL Jr. Challenge Release~~
 
-August 15, 2019
-- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Challenge Broadcast
-  - Global Event
-  - 11 AM (CDT)
-  - https://www.twitch.tv/firstinspires
+~~August 15, 2019~~
+- ~~*FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Challenge Broadcast~~
 
-August 24, 2019
-- Coaches Workshop (FLL and FLL Jr.)
-  - ADTRAN, Huntsville, AL
-  - 1:00 PM to 4:00 PM (CDT)
-  - Remote Access TBA
+~~August 24, 2019~~
+- ~~Coaches Workshop (FLL and FLL Jr.)~~
     
 September 7, 2019
 - *FIRST*<sup>&reg;</sup> Tech Challenge Kickoff
@@ -27,6 +21,11 @@ Late October 2019
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Fun Scrimmage Event
   - ADTRAN, Huntsville, AL
   - Satellite Locations TBA
+  - More details TBA
+
+Early November 2019
+- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Table Testing
+  - ADTRAN, Huntsville, AL
   - More details TBA
 
 November 9, 2019
