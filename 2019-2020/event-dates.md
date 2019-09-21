@@ -9,13 +9,11 @@
 ~~August 24, 2019~~
 - ~~Coaches Workshop (FLL and FLL Jr.)~~
     
-September 7, 2019
-- *FIRST*<sup>&reg;</sup> Tech Challenge Kickoff
+~~September 7, 2019~~
+- ~~*FIRST*<sup>&reg;</sup> Tech Challenge Kickoff~~
 
-September 21, 2019
-- Mechanical and Programming Workshop for Coaches (FLL and FLL Jr.)
-  - University of Alabama in Huntsville, Huntsville, AL
-  - More details TBA
+~~September 21, 2019~~
+- ~~Mechanical and Programming Workshop for Coaches (FLL and FLL Jr.)~~
 
 Late October 2019
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Fun Scrimmage Event
@@ -29,13 +27,22 @@ Early November 2019
   - More details TBA
 
 November 16, 2019
-- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifying Event(s) (TBA)
+- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League UAH Society of Women Engineers Qualifier
+  - University of Alabama in Huntsville, Huntsville, AL
 
 December 7, 2019
-- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifying Event(s) (TBA)
+- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier
+  - Hampton Cove Middle School, Owens Cross Roads, AL
+- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier
+  - Randolph School, Huntsville, AL
 
 December 14, 2019
-- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifying Event(s) (TBA)
+- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier
+  - Central Alabama Community College, Alexander City, AL
+- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier
+  - Arab Junior High School, Arab, AL
+- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier
+  - Columbia High School, Huntsville, AL
 
 January 4, 2020
 - *FIRST*<sup>&reg;</sup> Robotics Competition Kickoff
