@@ -13,18 +13,16 @@
 - ~~*FIRST*<sup>&reg;</sup> Tech Challenge Kickoff~~
 
 ~~September 21, 2019~~
-- ~~Mechanical and Programming Workshop for Coaches (FLL and FLL Jr.)~~
+- ~~Coaches Technical Workshop (FLL and FLL Jr.)~~
 
 Late October 2019
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Fun Scrimmage Event
   - ADTRAN, Huntsville, AL
   - Satellite Locations TBA
-  - More details TBA
 
 Early November 2019
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Table Testing
   - ADTRAN, Huntsville, AL
-  - More details TBA
 
 November 16, 2019
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League UAH Society of Women Engineers Qualifier
@@ -49,8 +47,11 @@ January 4, 2020
 
 January 25, 2020
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Alabama Championship
-  - Location TBA
-  - Schedule TBA
+  - Hampton Cove Middle School, Owens Cross Roads, AL
+
+February 22, 2020
+- *FIRST*<sup>&reg;</sup> Tech Challenge Alabama Championship
+  - Hampton Cove Middle School, Owens Cross Roads, AL
     
 April 1-4, 2020
 - *FIRST*<sup>&reg;</sup> Robotics Competition Rocket City Regional
@@ -59,4 +60,3 @@ April 1-4, 2020
 April 4, 2020
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Jr. Alabama Expo
   - von Braun Center, Huntsville, AL
-  - Schedule TBA
