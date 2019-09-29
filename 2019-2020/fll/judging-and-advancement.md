@@ -88,7 +88,7 @@ In all, the team will participate in three separate judging sessions. Though eac
 
 In addition to the judging sessions, your team will provide a Team Information Sheet to the event manager. This provides the judges with more information about your team, and you can reference specific parts of the sheet during your judging sessions.
 
-You can find a copy of the Team Information Sheet [here]().
+You can find a copy of the Team Information Sheet [here](https://github.com/drewwhis/alabama-first-lego-league/raw/master/2019-2020/fll/team-info-sheet.docx).
 
 
 
