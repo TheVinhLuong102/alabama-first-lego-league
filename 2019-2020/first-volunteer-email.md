@@ -1,6 +1,6 @@
 Hello!
 
-My name is Dancy Castle, and I am the Volunteer Coordinator for *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League (FLL) in Alabama. I am contacting you today to let you know about volunteer opportunities for you and your company.
+My name is Dancy Castle, and I am the Volunteer Coordinator for *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League (FLL) in Alabama. I am contacting you today to let you know about volunteer opportunities for you and your organization.
 
 I have included some information about the four *FIRST*<sup>&reg;</sup> programs below. [*FIRST*<sup>&reg;</sup> in Alabama](http://www.firstinalabama.org) is the local non-profit organization delivering the K-12 progression of [*FIRST*<sup>&reg;</sup>](https://www.firstinspires.org) programs to the state of Alabama.
 
@@ -40,7 +40,7 @@ Most of our events are one-day commitments, and we have a variety of roles to fi
   - ***FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Jr.** Alabama Expo
     - von Braun Center, Huntsville, AL
 
-Please let me know if your company would be interested in these opportunities! Anyone interested in volunteering can register for an event and complete the background check and any required trainings/certifications by following [this guide](https://github.com/drewwhis/alabama-first-lego-league/wiki/Becoming-an-Event-Volunteer).
+Please let me know if your organization would be interested in these opportunities! Anyone interested in volunteering can register for an event and complete the background check and any required trainings/certifications by following [this guide](https://github.com/drewwhis/alabama-first-lego-league/wiki/Becoming-an-Event-Volunteer).
 
 Thank you for your time, and we hope to see you at an event this season!
 
