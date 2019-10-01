@@ -33,7 +33,6 @@ These teams will be attending the *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> L
 | 32309	      | Skyrockets |
 | 34180	      | AAA Middle School Robotics |
 | 34911       | Rockets Robotics |
-| 37269	      | Rockin' Robos |
 | 38432       | Pride Bots 2.0 |
 | 39375	      | The Brickheads |
 | 46121	      | Libertas Lions Alpha Pride |

@@ -30,6 +30,7 @@ These teams will be attending the *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> L
 | 32313	      | Patriotic Robotics Blue |
 | 33832	      | Exit Terrestrials |
 | 34175	      | Roadrunner Robotics |
+| 37269	      | Rockin' Robos |
 | 39227	      | Crestline Legobots |
 | 39697	      | Huntsville Smarties |
 | 45611	      | Crestline Robot Team 2 |
