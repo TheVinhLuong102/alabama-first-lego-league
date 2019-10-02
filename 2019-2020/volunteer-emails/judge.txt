@@ -18,4 +18,4 @@ Lunch will be provided, and we expect the event to wrap at ((TIME)).
 
 Your Judge Advisor is ((JA NAME)) and can be reached at ((JA EMAIL)).
 
-Please let me know if you have any questions or concerns by emailing me at ((ASSIGNER EMAIL)) or your Judge 
+Please let me know if you have any questions or concerns by emailing me at ((ASSIGNER EMAIL)), or contact your Judge Advisor.
