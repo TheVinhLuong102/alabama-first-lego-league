@@ -12,4 +12,4 @@ Lunch will be provided, and we expect the event to wrap at ((TIME)).
 
 Your Head Referee is ((HR NAME)) and can be reached at ((HR EMAIL)).
 
-Please let me know if you have any questions or concerns by emailing me at ((ASSIGNER EMAIL)).
+Please let me know if you have any questions or concerns by emailing me at ((ASSIGNER EMAIL)), or contact your Head Referee.
