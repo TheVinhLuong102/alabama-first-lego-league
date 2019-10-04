@@ -37,6 +37,7 @@ These teams will be attending the *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> L
 | 39375	      | The Brickheads |
 | 46121	      | Libertas Lions Alpha Pride |
 | 47827	      | Endeavor |
+| 47896	      | Technology Pirates |
 
 
 ## Closing
