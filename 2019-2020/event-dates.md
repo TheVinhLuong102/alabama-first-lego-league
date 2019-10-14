@@ -15,12 +15,7 @@
 ~~September 21, 2019~~
 - ~~Coaches Technical Workshop (FLL and FLL Jr.)~~
 
-Late October 2019
-- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Fun Scrimmage Event
-  - ADTRAN, Huntsville, AL
-  - Satellite Locations TBA
-
-Early November 2019
+November 2, 2019
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Table Testing
   - ADTRAN, Huntsville, AL
 
