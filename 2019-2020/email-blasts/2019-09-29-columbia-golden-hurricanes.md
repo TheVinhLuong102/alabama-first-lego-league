@@ -27,7 +27,6 @@ These teams will be attending the *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> L
 | 5495	      | MES Team #1 |
 | 13271	      | RoboGrizzlies 001 |
 | 13651	      | RoboGrizzlies 010 |
-| 13762	      | RoboGrizzlies 011 |
 | 25011	      | Robo Dawson Lions |
 | 33322	      | BE-STEAM |
 | 40172	      | McDonnell Elementary Stingers |
