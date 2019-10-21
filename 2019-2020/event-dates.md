@@ -15,6 +15,10 @@
 ~~September 21, 2019~~
 - ~~Coaches Technical Workshop (FLL and FLL Jr.)~~
 
+October 29, 2019
+- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Online Q&A
+  - Google Meeting (details to follow)
+
 November 2, 2019
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Table Testing
   - ADTRAN, Huntsville, AL
