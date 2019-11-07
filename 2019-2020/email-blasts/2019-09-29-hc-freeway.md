@@ -38,6 +38,7 @@ These teams will be attending the *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> L
 | 46121	      | Libertas Lions Alpha Pride |
 | 47827	      | Endeavor |
 | 47896	      | Technology Pirates |
+| 50066       | Hampton Cove Hawks 1 |
 
 
 ## Closing
