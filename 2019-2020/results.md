@@ -27,4 +27,4 @@ Advancing Team(s)
 - 42146 ROBO Troopers
 
 Wild Card Team(s)
-- 41105 Robotic Raiders
+- 41104 Robotic Raiders
