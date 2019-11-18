@@ -21,9 +21,8 @@
 ~~November 2, 2019~~
 - ~~*FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Table Testing~~
 
-November 16, 2019
-- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League UAH Society of Women Engineers Qualifier
-  - University of Alabama in Huntsville, Huntsville, AL
+~~November 16, 2019~~
+- ~~*FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League UAH Society of Women Engineers Qualifier~~
 
 December 7, 2019
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier
