@@ -2,7 +2,19 @@
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League UAH Society of Women Engineers Qualifier
 
-Awards
+### Teams
+| Team Number | Team Name             |
+| ----------- | --------------------- |
+| 660         | Warrior Robotics      |
+| 16965       | Short Circuits        |
+| 41104       | Robotic Raiders       |
+| 41105       | IkeaBots              |
+| 41735       | Pineview FIRST Team 1 |
+| 42146       | ROBO Troopers         |
+| 46114       | Red Cheetahs          |
+| 46569       | Heritage Civil Cats   |
+
+### Awards
 - Champion's Award
   - 16965 Short Circuits
 - Core Values Award
@@ -20,11 +32,23 @@ Awards
 - Outstanding Volunteer Award
   - Kelsi Burt
 
-Advancing Team(s)
+### Advancing Team(s)
 - 660 Warrior Robotics Team Red
 - 16965 Short Circuits
 - 41105 IkeaBots
 - 42146 ROBO Troopers
 
-Wild Card Team(s)
+### Wild Card Team(s)
 - 41104 Robotic Raiders
+
+### Robot Performance Results
+| Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
+| ---- | ----- | ------- | ------- | ------- | ------- |
+| 1    | 42146 | 310     | 95      | 195     | 310     |
+| 2    | 16965 | 295     | 260     | 265     | 295     |
+| 3    | 660   | 270     | 165     | 270     | 240     |
+| 4    | 41105 | 205     | 145     | 205     | 115     |
+| 5    | 41104 | 195     | 195     | 190     | 185     |
+| 6    | 46114 | 190     | 190     | 165     | 175     |
+| 7    | 41735 | 120     | 70      | 120     | 65      |
+| 8    | 46569 | 95      | 65      | 80      | 95      |
