@@ -28,12 +28,12 @@
 - Rising Star Award (Judges Award)
   - 41104 Robotic Raiders
 - Coach/Mentor Award
-  - Mrs. Tabitha (660 - Warrior Robotics Team Red)
+  - Mrs. Tabitha (660 - Warrior Robotics)
 - Outstanding Volunteer Award
   - Kelsi Burt
 
 ### Advancing Team(s)
-- 660 Warrior Robotics Team Red
+- 660 Warrior Robotics
 - 16965 Short Circuits
 - 41105 IkeaBots
 - 42146 ROBO Troopers
