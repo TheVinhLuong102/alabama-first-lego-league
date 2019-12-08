@@ -137,6 +137,7 @@
 ### Advancing Team(s)
 - 19234 Astro-Girls
 - 31293 Brooks Pride Bots
+- 39374 C.R.A.B. (Cool Robots and Builders)
 - 45352 Linking Lions
 
 ### Wild Card Team(s)
