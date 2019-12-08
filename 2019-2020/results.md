@@ -73,7 +73,7 @@
 | Core Values Award           | 50066 Hampton Cove Hawks 1               |
 | Innovation Project Award    | 24661 Ram Robotics                       |
 | Robot Design Award          | 46121 Libertas Lions Alpha Pride         | 
-| Robot Performance Award     | 24661 Ram Robotics (High Schore: 365)    | 
+| Robot Performance Award     | 24661 Ram Robotics (High Score: 365)    | 
 | Judges Award (Candor Award) | 47827 Endeavor                           |
 | Coach/Mentor Award          | Lori Nelson (50066 Hampton Cove Hawks 1) |
 | Outstanding Volunteer Award | Clark McClung                            |
