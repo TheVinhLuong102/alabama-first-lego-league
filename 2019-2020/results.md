@@ -23,7 +23,7 @@
 | Robot Design Award          | 42146 ROBO Troopers                   | 
 | Robot Performance Award     | 42146 ROBO Troopers (High Score: 310) | 
 | Judges Award (Title)        | 41104 Robotic Raiders                 |
-| Coach/Mentor Award          | Mrs. Tabitha (660 Warrior Robotics) |
+| Coach/Mentor Award          | Tabitha Smith (660 Warrior Robotics)  |
 | Outstanding Volunteer Award | Kelsi Burt                            |
 
 
