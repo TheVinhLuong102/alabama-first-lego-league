@@ -52,8 +52,19 @@
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Freeway Qualifier
 **This event is awaiting results.**
 ### Teams
-| Team Number | Team Name             |
-| ----------- | --------------------- |
+| Team Number | Team Name                  |
+| ----------- | -------------------------- |
+| 6175        | ROBO PATRIOTS              |
+| 24661       | Ram Robotics               |
+| 31513       | Blue Cheetahs              |
+| 32309       | Skyrockets                 |
+| 34180       | AAA Middle School Robotics |
+| 34911       | Rockets Robotics           |
+| 39375       | The Brickheads             |
+| 46121       | Libertas Lions Alpha Pride |
+| 47827       | Endeavor                   |
+| 47896       | Technology Pirates         |
+| 50066       | Hampton Cove Hawks 1       |
 
 ### Awards
 | Award                       | Recipient |
