@@ -82,7 +82,7 @@
 - 24661 Ram Robotics
 - 32309 Skyrockets
 - 46121 Libertas Lions Alpha Pride
-- 50061 Hampton Cove Hawks 1
+- 50066 Hampton Cove Hawks 1
 
 ### Wild Card Team(s)
 - 31513 Blue Cheetahs
