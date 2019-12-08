@@ -23,7 +23,7 @@
 | Robot Design Award          | 42146 ROBO Troopers                   | 
 | Robot Performance Award     | 42146 ROBO Troopers (High Score: 310) | 
 | Judges Award (Title)        | 41104 Robotic Raiders                 |
-| Coach/Mentor Award          | Mrs. Tabitha (660 - Warrior Robotics) |
+| Coach/Mentor Award          | Mrs. Tabitha (660 Warrior Robotics) |
 | Outstanding Volunteer Award | Kelsi Burt                            |
 
 
@@ -141,16 +141,15 @@
 | 47694       | MSE Robo-Coders            |
 
 ### Awards
-| Award                       | Recipient |
-| --------------------------- | --------- |
-| Champion's Award            | |
-| Core Values Award           | |
-| Innovation Project Award    | |
-| Robot Design Award          | | 
-| Robot Performance Award     | | 
-| Judges Award (Title)        | |
-| Coach/Mentor Award          | |
-| Outstanding Volunteer Award | |
+| Award                       | Recipient                           |
+| --------------------------- | ----------------------------------- |
+| Champion's Award            | 39133 Libertas Lions Omega Pride    |
+| Core Values Award           | 39377 DAR Middle TEKs               |
+| Innovation Project Award    | 1687 Robo Rangers                   |
+| Robot Design Award          | 11772 MSE Robo-Nados                |
+| Robot Performance Award     | 1687 Robo Rangers (High Score: 315) | 
+| Coach/Mentor Award          | Holly Whitt (1687 Robo Rangers)     |
+| Outstanding Volunteer Award | Laurel Shugart                      |
 
 ### Advancing Team(s)
 
