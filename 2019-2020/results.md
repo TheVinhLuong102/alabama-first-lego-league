@@ -50,7 +50,7 @@
 
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Freeway Qualifier
-**This event is awaiting results.**
+
 ### Teams
 | Team Number | Team Name                  |
 | ----------- | -------------------------- |
@@ -79,8 +79,14 @@
 | Outstanding Volunteer Award | Clark McClung                            |
 
 ### Advancing Team(s)
+- 24661 Ram Robotics
+- 32309 Skyrockets
+- 46121 Libertas Lions Alpha Pride
+- 50061 Hampton Cove Hawks 1
 
 ### Wild Card Team(s)
+- 31513 Blue Cheetahs
+- 39375 The Brickheads
 
 ### Robot Performance Results
 | Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
