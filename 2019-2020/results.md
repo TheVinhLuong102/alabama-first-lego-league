@@ -105,31 +105,59 @@
 
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Randolph Qualifier
-**This event is awaiting results.**
+
 ### Teams
-| Team Number | Team Name             |
-| ----------- | --------------------- |
+| Team Number | Team Name                           |
+| ----------- | ----------------------------------- |
+| 19234       | Astro-Girls                         |
+| 19235       | Drumroll, Please                    |
+| 29891       | AMS Penguins                        |
+| 31293       | Brooks Pride Bots                   |
+| 32311       | Creeper Aw Manz                     |
+| 34408       | AMS City Turtles                    |
+| 35853       | roBOEs                              |
+| 39374       | C.R.A.B. (Cool Robots And Builders) |
+| 40587       | AMS Creepers                        |
+| 42122       | Wild Things                         |
+| 45352       | Linking Lions                       |
+| 49052       | Whitesburg Elementary               |
 
 ### Awards
-| Award                       | Recipient |
-| --------------------------- | --------- |
-| Champion's Award            | |
-| Core Values Award           | |
-| Innovation Project Award    | |
-| Robot Design Award          | | 
-| Robot Performance Award     | | 
-| Judges Award (Title)        | |
-| Coach/Mentor Award          | |
-| Outstanding Volunteer Award | |
+| Award                       | Recipient                                                   |
+| --------------------------- | ----------------------------------------------------------- |
+| Champion's Award            | 39374 C.R.A.B. (Cool Robots and Builders)                   |
+| Core Values Award           | 31293 Brooks Pride Bots                                     |
+| Innovation Project Award    | 42122 Wild Things                                           |
+| Robot Design Award          | 19234 Astro-Girls                                           |
+| Robot Performance Award     | 39374 C.R.A.B. (Cool Robots and Builders) (High Score: 395) |
+| Judges Award (Rising Star)  | 45352 Linking Lions                                         |
+| Coach/Mentor Award          | Caitlyn Blankenship (49052 Whitesburg Elementary)           |
+| Outstanding Volunteer Award | Tedessa Handly                                              |
 
 ### Advancing Team(s)
+- 19234 Astro-Girls
+- 31293 Brooks Pride Bots
+- 45352 Linking Lions
 
 ### Wild Card Team(s)
+- 29891 AMS Penguins
+- 32311 Creeper Aw Manz
 
 ### Robot Performance Results
 | Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
 | ---- | ----- | ------- | ------- | ------- | ------- |
-
+| 1    | 39374 | 395     | 375     | 395     | 395     |
+| 2    | 42122 | 255     | 225     | 255     | 165     |
+| 3    | 45352 | 250     | 220     | 250     | 245     |
+| 4    | 19235 | 220     | 220     | 200     | 140     |
+| 5    | 31293 | 200     | 85      | 195     | 200     |
+| 6    | 34408 | 175     | 175     | 165     | 175     |
+| 7    | 32311 | 175     | 160     | 175     | 125     |
+| 8    | 40587 | 175     | 155     | 175     | 125     |
+| 9    | 35853 | 170     | 145     | 145     | 170     |
+| 10   | 29891 | 140     | 140     | 135     | 120     |
+| 11   | 19234 | 85      | 75      | 65      | 85      |
+| 12   | 49052 | 50      | 50      | 50      | 20      |
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Skyscraper Qualifier
 
