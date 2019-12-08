@@ -132,7 +132,7 @@
 
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Skyscraper Qualifier
-**This event is awaiting results.**
+
 ### Teams
 | Team Number | Team Name                  |
 | ----------- | -------------------------- |
@@ -158,8 +158,13 @@
 | Outstanding Volunteer Award | Laurel Shugart                      |
 
 ### Advancing Team(s)
+- 1687 Robo Rangers
+- 11772 MSE Robo-Nados
+- 39133 Libertas Lions Omega Pride
+- 39377 DAR Middle TEKs
 
 ### Wild Card Team(s)
+- 46673 Black Cheetahs
 
 ### Robot Performance Results
 | Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
