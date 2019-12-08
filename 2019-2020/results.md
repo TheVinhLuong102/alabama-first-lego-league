@@ -128,8 +128,17 @@
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Skyscraper Qualifier
 **This event is awaiting results.**
 ### Teams
-| Team Number | Team Name             |
-| ----------- | --------------------- |
+| Team Number | Team Name                  |
+| ----------- | -------------------------- |
+| 1687        | Robo Rangers               |
+| 11772       | MSE Robo-Nados             |
+| 29294       | MSE Robo-Sapienettes       |
+| 33673       | Dark Circiuts              |
+| 39133       | Libertas Lions Omega Pride |
+| 39377       | DAR Middle TEKs            |
+| 46115       | Green Cheetahs             |
+| 46673       | Black Cheetahs             |
+| 47694       | MSE Robo-Coders            |
 
 ### Awards
 | Award                       | Recipient |
