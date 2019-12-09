@@ -211,6 +211,7 @@
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Alexander City Qualifier
 **This event is awaiting results.**
+<!--
 ### Teams
 | Team Number | Team Name             |
 | ----------- | --------------------- |
@@ -234,10 +235,12 @@
 ### Robot Performance Results
 | Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
 | ---- | ----- | ------- | ------- | ------- | ------- |
+-->
 
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Dragon Slayers Qualifier
 **This event is awaiting results.**
+<!--
 ### Teams
 | Team Number | Team Name             |
 | ----------- | --------------------- |
@@ -261,10 +264,12 @@
 ### Robot Performance Results
 | Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
 | ---- | ----- | ------- | ------- | ------- | ------- |
+-->
 
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Golden Hurricanes Qualifier
 **This event is awaiting results.**
+<!--
 ### Teams
 | Team Number | Team Name             |
 | ----------- | --------------------- |
@@ -288,3 +293,4 @@
 ### Robot Performance Results
 | Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
 | ---- | ----- | ------- | ------- | ------- | ------- |
+-->
