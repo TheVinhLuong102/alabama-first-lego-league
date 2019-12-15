@@ -211,31 +211,50 @@
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Alexander City Qualifier
 **This event is awaiting results.**
-<!--
+
 ### Teams
-| Team Number | Team Name             |
-| ----------- | --------------------- |
+| Team Number | Team Name                     |
+| ----------- | ----------------------------- |
+| 1250        | Maxwell Eagles                |
+| 14738       | TigerBot Team Bots and Bricks |
+| 16035       | TigerBot Team LEGObot         |
+| 17883       | Break a Leg-O                 |
+| 27338       | STJ Trobotics                 |
+| 30014       | TigerBot Team Wrecking Ball   |
+| 30015       | TigerBot Team Legacy          |
+| 40118       | LEGOTRONS                     |
+| 41987       | Robo Blasters                 |
+| 45541       | North Side Knights            |
+| 47303       | Master Builders               |
+| 47441       | The ECMS Young Viruses        |
+
 
 ### Awards
 | Award                       | Recipient |
 | --------------------------- | --------- |
-| Champion's Award            | |
-| Core Values Award           | |
-| Innovation Project Award    | |
-| Robot Design Award          | | 
-| Robot Performance Award     | | 
-| Judges Award (Title)        | |
+| Champion's Award            | 17883 Break a Leg-O |
+| Core Values Award           | 30015 TigerBot Team Legacy |
+| Innovation Project Award    | 16035 TigerBot Team LEGObot |
+| Robot Design Award          | 30014 TigerBot Team Wrecking Ball |
+| Robot Performance Award     | 14738 TigerBot Team Bots and Bricks (High Score:) |
+| Judges Award                | 40118 LEGOTRONS |
 | Coach/Mentor Award          | |
 | Outstanding Volunteer Award | |
 
 ### Advancing Team(s)
+- 16035 TigerBot Team LEGObot
+- 17883 Break a Leg-O
+- 30014 TigerBot Team Wrecking Ball
+- 30015 TigerBot Team Legacy
 
 ### Wild Card Team(s)
+- 14738 TigerBot Team Bots and Bricks
+- 47303 Master Builders
 
 ### Robot Performance Results
 | Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
 | ---- | ----- | ------- | ------- | ------- | ------- |
--->
+
 
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Dragon Slayers Qualifier
