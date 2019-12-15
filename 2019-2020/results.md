@@ -73,7 +73,7 @@
 | Core Values Award           | 50066 Hampton Cove Hawks 1               |
 | Innovation Project Award    | 24661 Ram Robotics                       |
 | Robot Design Award          | 46121 Libertas Lions Alpha Pride         | 
-| Robot Performance Award     | 24661 Ram Robotics (High Score: 365)    | 
+| Robot Performance Award     | 24661 Ram Robotics (High Score: 365)     | 
 | Judges Award (Candor Award) | 47827 Endeavor                           |
 | Coach/Mentor Award          | Lori Nelson (50066 Hampton Cove Hawks 1) |
 | Outstanding Volunteer Award | Clark McClung                            |
@@ -240,31 +240,56 @@
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Dragon Slayers Qualifier
 **This event is awaiting results.**
-<!--
+
 ### Teams
-| Team Number | Team Name             |
-| ----------- | --------------------- |
+| Team Number | Team Name               |
+| ----------- | ----------------------- |
+| 7252        | Farley Sky Bots         |
+| 18238       | High Voltage            |
+| 24610       | Mystery Machinery       |
+| 45611       | The Existent People     |
+| 34175       | Roadrunner Robotics     |
+| 37269       | Rockin' Robos           | 
+| 39227       | Fellowship of the Fries |
+| 39697       | Huntsville Smarties     |
+| 32313       | Patriotic Robots Blue   |
+| 48579       | WHES Robotics           |
+
 
 ### Awards
-| Award                       | Recipient |
-| --------------------------- | --------- |
-| Champion's Award            | |
-| Core Values Award           | |
-| Innovation Project Award    | |
-| Robot Design Award          | | 
-| Robot Performance Award     | | 
-| Judges Award (Title)        | |
-| Coach/Mentor Award          | |
-| Outstanding Volunteer Award | |
+| Award                       | Recipient                                     |
+| --------------------------- | --------------------------------------------- |
+| Champion's Award            | 18238 High Voltage                            |
+| Core Values Award           | 39227 Fellowship of the Fries                 |
+| Innovation Project Award    | 39697 Huntsville Smarties                     |
+| Robot Design Award          | 24610 Mystery Machinery                       |
+| Robot Performance Award     | 18238 High Voltage (High Score: 320)          | 
+| Coach/Mentor Award          | Kimberly Cockrell (39697 Huntsville Smarties) |
+| Outstanding Volunteer Award | Charles Whisenant                             |
 
 ### Advancing Team(s)
+- 18238 High Voltage
+- 24610 Mystery Machinery
+- 39227 Fellowship of the Fries 
+- 39697 Huntsville Smarties 
 
 ### Wild Card Team(s)
+- 7252 Farley Sky Bots 
+- 32313 Patriotic Robotics Blue
 
 ### Robot Performance Results
 | Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
 | ---- | ----- | ------- | ------- | ------- | ------- |
--->
+| 1    | 18238 | 320     | 280     | 285     | 320     |
+| 2    | 39227 | 310     | 180     | 280     | 310     |
+| 3    | 24610 | 305     | 235     | 305     | 185     |
+| 4    | 48579 | 190     | 145     | 175     | 190     |
+| 5    | 32313 | 180     | 135     | 145     | 180     |
+| 5    | 45611 | 180     | 145     | 180     | 135     |
+| 7    | 34175 | 180     | 110     | 110     | 180     |
+| 8    | 39697 | 170     | 85      | 115     | 170     |
+| 9    | 7252  | 155     | 120     | 155     | 120     |
+| 10   | 37269 | 105     | 85      | 90      | 105     |
 
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Golden Hurricanes Qualifier
