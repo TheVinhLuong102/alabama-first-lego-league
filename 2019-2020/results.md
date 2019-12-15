@@ -239,7 +239,6 @@
 
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Dragon Slayers Qualifier
-**This event is awaiting results.**
 
 ### Teams
 | Team Number | Team Name               |
@@ -293,29 +292,57 @@
 
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Golden Hurricanes Qualifier
-**This event is awaiting results.**
-<!--
+
 ### Teams
-| Team Number | Team Name             |
-| ----------- | --------------------- |
+| Team Number | Team Name                     |
+| ----------- | ----------------------------- |
+| 1371        | Chaffee Elementary            |
+| 5495        | MES Team #1                   |
+| 13271       | RoboGrizzlies 001             |
+| 13651       | RoboGrizzlies 010             |
+| 25011       | Robo Dawson Lions             |
+| 33322       | Robot Rascals                 |
+| 40172       | McDonnell Elementary Stingers |
+| 40498       | Columbia Elementary Robotics  |
+| 41029       | J.A.L. 9000                   |
+| 46057       | Bot Tribe                     |
+| 48182       | Nuts & Bolts                  |
+
 
 ### Awards
-| Award                       | Recipient |
-| --------------------------- | --------- |
-| Champion's Award            | |
-| Core Values Award           | |
-| Innovation Project Award    | |
-| Robot Design Award          | | 
-| Robot Performance Award     | | 
-| Judges Award (Title)        | |
-| Coach/Mentor Award          | |
-| Outstanding Volunteer Award | |
+| Award                            | Recipient                             |
+| -------------------------------- | ------------------------------------- |
+| Champion's Award                 | 13271 RoboGrizzlies 001               |
+| Core Values Award                | 40498 Columbia Elementary Robotics    |
+| Innovation Project Award         | 33322 Robot Rascals                   |
+| Robot Design Award               | 5495 MES Team #1                      | 
+| Robot Performance Award          | 33322 Robot Rascals (High Score: 225) | 
+| Judges Award (Rising Star Award) | 46057 Bot Tribe                       |
+| Coach/Mentor Award               | Amy Carter (33322 Robot Rascals)      |
+| Outstanding Volunteer Award      | Debbie Packard                        |
 
 ### Advancing Team(s)
+- 5495 MES Team #1
+- 13271 RoboGrizzlies 001
+- 33322 Robot Rascals
+- 46057 Bot Tribe
 
 ### Wild Card Team(s)
+- 40172 McDonnell Elementary Stingers
+- 48182 Nuts & Bolts
 
 ### Robot Performance Results
 | Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
 | ---- | ----- | ------- | ------- | ------- | ------- |
--->
+| 1    | 33322 | 225     | 210     | 225     | 200     |
+| 2    | 13651 | 225     | 225     | 205     | 155     |
+| 3    | 46057 | 210     | 160     | 200     | 210     |
+| 4    | 25011 | 210     | 175     | 210     | 160     |
+| 5    | 48182 | 205     | 190     | 195     | 205     |
+| 6    | 40172 | 205     | 205     | 145     | 155     |
+| 7    | 13271 | 195     | 135     | 195     | 155     |
+| 8    | 5495  | 155     | 120     | 155     | 90      |
+| 9    | 40498 | 150     | 90      | 150     | 105     |
+| 10   | 41029 | 95      | 40      | 55      | 95      |
+| 11   | 1371  | 50      | 20      | 35      | 50      |
+
