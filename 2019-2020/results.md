@@ -230,16 +230,16 @@
 
 
 ### Awards
-| Award                       | Recipient |
-| --------------------------- | --------- |
-| Champion's Award            | 17883 Break a Leg-O |
-| Core Values Award           | 30015 TigerBot Team Legacy |
-| Innovation Project Award    | 16035 TigerBot Team LEGObot |
-| Robot Design Award          | 30014 TigerBot Team Wrecking Ball |
+| Award                       | Recipient                                         |
+| --------------------------- | ------------------------------------------------- |
+| Champion's Award            | 17883 Break a Leg-O                               |
+| Core Values Award           | 30015 TigerBot Team Legacy                        |
+| Innovation Project Award    | 16035 TigerBot Team LEGObot                       |
+| Robot Design Award          | 30014 TigerBot Team Wrecking Ball                 |
 | Robot Performance Award     | 14738 TigerBot Team Bots and Bricks (High Score:) |
-| Judges Award                | 40118 LEGOTRONS |
-| Coach/Mentor Award          | |
-| Outstanding Volunteer Award | |
+| Judges Award                | 40118 LEGOTRONS                                   |
+| Coach/Mentor Award          | Kelly Windus (17883 Break a Leg-O)                |
+| Lifetime Achievement Award  | Don McClellan                                     |
 
 ### Advancing Team(s)
 - 16035 TigerBot Team LEGObot
