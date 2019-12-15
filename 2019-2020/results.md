@@ -224,22 +224,21 @@
 | 30015       | TigerBot Team Legacy          |
 | 40118       | LEGOTRONS                     |
 | 41987       | Robo Blasters                 |
-| 45541       | North Side Knights            |
 | 47303       | Master Builders               |
 | 47441       | The ECMS Young Viruses        |
 
 
 ### Awards
-| Award                       | Recipient                                         |
-| --------------------------- | ------------------------------------------------- |
-| Champion's Award            | 17883 Break a Leg-O                               |
-| Core Values Award           | 30015 TigerBot Team Legacy                        |
-| Innovation Project Award    | 16035 TigerBot Team LEGObot                       |
-| Robot Design Award          | 30014 TigerBot Team Wrecking Ball                 |
-| Robot Performance Award     | 14738 TigerBot Team Bots and Bricks (High Score:) |
-| Judges Award                | 40118 LEGOTRONS                                   |
-| Coach/Mentor Award          | Kelly Windus (17883 Break a Leg-O)                |
-| Lifetime Achievement Award  | Don McClellan                                     |
+| Award                       | Recipient                                             |
+| --------------------------- | ----------------------------------------------------- |
+| Champion's Award            | 17883 Break a Leg-O                                   |
+| Core Values Award           | 30015 TigerBot Team Legacy                            |
+| Innovation Project Award    | 16035 TigerBot Team LEGObot                           |
+| Robot Design Award          | 30014 TigerBot Team Wrecking Ball                     |
+| Robot Performance Award     | 14738 TigerBot Team Bots and Bricks (High Score: 275) |
+| Judges Award                | 40118 LEGOTRONS                                       |
+| Coach/Mentor Award          | Kelly Windus (17883 Break a Leg-O)                    |
+| Lifetime Achievement Award  | Don McClellan                                         |
 
 ### Advancing Team(s)
 - 16035 TigerBot Team LEGObot
@@ -254,7 +253,17 @@
 ### Robot Performance Results
 | Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
 | ---- | ----- | ------- | ------- | ------- | ------- |
-
+| 1    | 30014 | 275     | 135     | 275     | 105     |
+| 2    | 40118 | 255     | 235     | 255     | 150     |
+| 3    | 17883 | 245     | 115     | 175     | 245     |
+| 4    | 47303 | 240     | 240     | 215     | 170     |
+| 5    | 14738 | 225     | 190     | 200     | 225     |
+| 6    | 16035 | 215     | 110     | 125     | 215     |
+| 7    | 47441 | 205     | 205     | 65      | 170     |
+| 8    | 41987 | 195     | 165     | 195     | 185     |
+| 9    | 30015 | 190     | 140     | 160     | 190     |
+| 10   | 27338 | 165     | 140     | 165     | 130     |
+| 11   | 1250  | 150     | 115     | 150     | 140     |
 
 
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Dragon Slayers Qualifier
