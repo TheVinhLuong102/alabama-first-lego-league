@@ -415,3 +415,41 @@
 | 46673       | Black Cheetahs                      |
 | 47303       | Master Builders                     |
 | 50066       | Hampton Cove Hawks 1                |
+
+### Awards
+
+| Champion's Awards | Recipient |
+| ------------------| --------- |
+| Winner            |           |
+| Finalist          |           |
+| Finalist          |           |
+
+| Area Awards                              | Recipient |
+| ---------------------------------------- | --------- |
+| Mechanical Design                        |           |
+| Programming                              |           |
+| Strategy & Innovation                    |           |
+| Robot Performance                        |           |
+| Research                                 |           |
+| Innovative Solution                      |           |
+| Presentation                             |           |
+| Inspiration                              |           |
+| Teamwork                                 |           |
+| Gracious Professionalism<sup>&reg;</sup> |           |
+
+| Judges Award | Recipient |
+| ------------ | --------- |
+
+| Individual Awards           | Recipient |
+| --------------------------- | --------- |
+| Coach/Mentor Award          |           |
+| Outstanding Volunteer Award |           |
+
+| Invitation             | Recipient |
+| ---------------------- | --------- |
+| World Festival         |           |
+| Razorback Invitational |           |
+
+### Robot Performance Results
+| Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
+| ---- | ----- | ------- | ------- | ------- | ------- |
