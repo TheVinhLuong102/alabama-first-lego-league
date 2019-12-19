@@ -15,16 +15,16 @@
 | 46569       | Heritage Civil Cats   |
 
 ### Awards
-| Award                       | Recipient                             |
-| --------------------------- | ------------------------------------- |
-| Champion's Award            | 16965 Short Circuits                  |
-| Core Values Award           | 41105 IkeaBots                        |
-| Innovation Project Award    | 46114 Red Cheetahs                    |
-| Robot Design Award          | 42146 ROBO Troopers                   | 
-| Robot Performance Award     | 42146 ROBO Troopers (High Score: 310) | 
-| Judges Award (Title)        | 41104 Robotic Raiders                 |
-| Coach/Mentor Award          | Tabitha Smith (660 Warrior Robotics)  |
-| Outstanding Volunteer Award | Kelsi Burt                            |
+| Award                            | Recipient                             |
+| -------------------------------- | ------------------------------------- |
+| Champion's Award                 | 16965 Short Circuits                  |
+| Core Values Award                | 41105 IkeaBots                        |
+| Innovation Project Award         | 46114 Red Cheetahs                    |
+| Robot Design Award               | 42146 ROBO Troopers                   | 
+| Robot Performance Award          | 42146 ROBO Troopers (High Score: 310) | 
+| Judges Award (Rising Star Award) | 41104 Robotic Raiders                 |
+| Coach/Mentor Award               | Tabitha Smith (660 Warrior Robotics)  |
+| Outstanding Volunteer Award      | Kelsi Burt                            |
 
 
 ### Advancing Team(s)
@@ -373,3 +373,45 @@
 | 10   | 41029 | 95      | 40      | 55      | 95      |
 | 11   | 1371  | 50      | 20      | 35      | 50      |
 
+
+## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Alabama Championship
+
+### Teams
+| Team Number | Team Name                           |
+| ----------- | ----------------------------------- |
+| 660         | Warrior Robotics                    |
+| 1687        | Robo Rangers                        |
+| 5495        | MES Team #1                         |
+| 7252        | Farley 1                            |
+| 11772       | MSE Robo-Nados                      |
+| 13271       | RoboGrizzlies 001                   |
+| 14738       | TigerBot Team Bots and Bricks       |
+| 16035       | TigerBot Team Legobot               |
+| 16965       | Short Circuits                      |
+| 17883       | Break a Leg-O                       |
+| 18238       | High Voltage                        |
+| 19234       | Astro-Girls                         |
+| 24610       | Mystery Machinery                   |
+| 24661       | Ram Robotics                        |
+| 29891       | AMS Penguins                        |
+| 30014       | TigerBot Team Wrecking Ball         |
+| 30015       | TigerBot Team Legacy                |
+| 31293       | Brooks Pride Bots                   |
+| 31513       | Blue Cheetahs                       |
+| 32309       | Skyrockets                          |
+| 33322       | Robot Rascals                       |
+| 39133       | Libertas Lions Omega Pride          |
+| 39227       | Fellowship of the Fries             |
+| 39374       | C.R.A.B. (Cool Robots And Builders) |
+| 39377       | DAR Middle TEKs                     |
+| 39697       | Huntsville Smarties                 |
+| 40172       | McDonnell Elementary Stingers       |
+| 41104       | Robotic Raiders                     |
+| 41105       | IkeaBots                            |
+| 42146       | ROBO Troopers                       |
+| 45352       | Linking Lions                       |
+| 46057       | Bot Tribe                           |
+| 46121       | Libertas Lions Alpha Pride          |
+| 46673       | Black Cheetahs                      |
+| 47303       | Master Builders                     |
+| 50066       | Hampton Cove Hawks 1                |
