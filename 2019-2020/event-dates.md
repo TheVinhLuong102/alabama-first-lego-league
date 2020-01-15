@@ -24,22 +24,17 @@
 ~~November 16, 2019~~
 - ~~*FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League UAH Society of Women Engineers Qualifier~~
 
-December 7, 2019
-- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier
-  - Hampton Cove Middle School, Owens Cross Roads, AL
-- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier
-  - Randolph School, Huntsville, AL
+~~December 7, 2019~~
+- ~~*FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier~~
+- ~~*FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier~~
 
-December 14, 2019
-- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier
-  - Central Alabama Community College, Alexander City, AL
-- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier
-  - Arab Junior High School, Arab, AL
-- *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier
-  - Columbia High School, Huntsville, AL
+~~December 14, 2019~~
+- ~~*FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier~~
+- ~~*FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier~~
+- ~~*FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Qualifier~~
 
-January 4, 2020
-- *FIRST*<sup>&reg;</sup> Robotics Competition Kickoff
+~~January 4, 2020~~
+- ~~*FIRST*<sup>&reg;</sup> Robotics Competition Kickoff~~
 
 January 25, 2020
 - *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Alabama Championship

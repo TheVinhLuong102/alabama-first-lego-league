@@ -1,0 +1,38 @@
+| State Team Number | Team Number | Team Name                           | Info Sheet |
+| ----------------- | ----------- | ----------------------------------- | ---------- |
+| 1                 | 660         | Warrior Robotics                    |            |
+| 2                 | 1687        | Robo Rangers                        | Received   |
+| 3                 | 5495        | MES Team #1                         | Received   |
+| 4                 | 7252        | Farley Sky Bots                     |            |
+| 5                 | 11772       | MSE Robo-Nados                      |            |
+| 6                 | 13271       | RoboGrizzlies 001                   |            |
+| 7                 | 14738       | TigerBot Team Bots and Bricks       | Received   |
+| 8                 | 16035       | TigerBot Team LEGObot               | Received   |
+| 9                 | 16965       | Short Circuits                      |            |
+| 10                | 17883       | Break a Leg-O                       |            |
+| 11                | 18238       | High Voltage                        | Received   |
+| 12                | 19234       | Astro-Girls                         |            |
+| 13                | 24610       | Mystery Machinery                   |            |
+| 14                | 24661       | Ram Robotics                        |            |
+| 15                | 29891       | AMS Penguins                        | Received   |
+| 16                | 30014       | TigerBot Team Wrecking Ball         | Received   |
+| 17                | 30015       | TigerBot Team Legacy                | Received   |
+| 18                | 31293       | Brooks Pride Bots                   | Received   |
+| 19                | 31513       | Blue Cheetahs                       | Received   |
+| 20                | 32309       | Skyrockets                          |            |
+| 21                | 33322       | Robot Rascals                       |            |
+| 22                | 39133       | Libertas Lions Omega Pride          | Received   |
+| 23                | 39227       | Fellowship of the Fries             |            |
+| 24                | 39374       | C.R.A.B. (Cool Robots And Builders) |            |
+| 25                | 39377       | DAR Middle TEKs                     |            |
+| 26                | 39697       | Huntsville Smarties                 | Received   |
+| 27                | 40172       | McDonnell Elementary Stingers       |            |
+| 28                | 41104       | Robotic Raiders                     |            |
+| 29                | 41105       | IkeaBots                            |            |
+| 30                | 42146       | ROBO Troopers                       | Received   |
+| 31                | 45352       | Linking Lions                       | Received   |
+| 32                | 46057       | Bot Tribe                           |            |
+| 33                | 46121       | Libertas Lions Alpha Pride          | Received   |
+| 34                | 46673       | Black Cheetahs                      | Received   |
+| 35                | 47303       | Master Builders                     | Received   |
+| 36                | 50066       | Hampton Cove Hawks 1                | Received   |
