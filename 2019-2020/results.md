@@ -377,79 +377,123 @@
 ## *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Alabama Championship
 
 ### Teams
-| Team Number | Team Name                           |
-| ----------- | ----------------------------------- |
-| 660         | Warrior Robotics                    |
-| 1687        | Robo Rangers                        |
-| 5495        | MES Team #1                         |
-| 7252        | Farley 1                            |
-| 11772       | MSE Robo-Nados                      |
-| 13271       | RoboGrizzlies 001                   |
-| 14738       | TigerBot Team Bots and Bricks       |
-| 16035       | TigerBot Team Legobot               |
-| 16965       | Short Circuits                      |
-| 17883       | Break a Leg-O                       |
-| 18238       | High Voltage                        |
-| 19234       | Astro-Girls                         |
-| 24610       | Mystery Machinery                   |
-| 24661       | Ram Robotics                        |
-| 29891       | AMS Penguins                        |
-| 30014       | TigerBot Team Wrecking Ball         |
-| 30015       | TigerBot Team Legacy                |
-| 31293       | Brooks Pride Bots                   |
-| 31513       | Blue Cheetahs                       |
-| 32309       | Skyrockets                          |
-| 33322       | Robot Rascals                       |
-| 39133       | Libertas Lions Omega Pride          |
-| 39227       | Fellowship of the Fries             |
-| 39374       | C.R.A.B. (Cool Robots And Builders) |
-| 39377       | DAR Middle TEKs                     |
-| 39697       | Huntsville Smarties                 |
-| 40172       | McDonnell Elementary Stingers       |
-| 41104       | Robotic Raiders                     |
-| 41105       | IkeaBots                            |
-| 42146       | ROBO Troopers                       |
-| 45352       | Linking Lions                       |
-| 46057       | Bot Tribe                           |
-| 46121       | Libertas Lions Alpha Pride          |
-| 46673       | Black Cheetahs                      |
-| 47303       | Master Builders                     |
-| 50066       | Hampton Cove Hawks 1                |
+| State Number | Team Number | Team Name                           |
+| ------------ | ----------- | ----------------------------------- |
+| 1            | 660         | Warrior Robotics                    |
+| 2            | 1687        | Robo Rangers                        |
+| 3            | 5495        | MES Team #1                         |
+| 4            | 7252        | Farley 1                            |
+| 5            | 11772       | MSE Robo-Nados                      |
+| 6            | 13271       | RoboGrizzlies 001                   |
+| 7            | 14738       | TigerBot Team Bots and Bricks       |
+| 8            | 16035       | TigerBot Team Legobot               |
+| 9            | 16965       | Short Circuits                      |
+| 10           | 17883       | Break a Leg-O                       |
+| 11           | 18238       | High Voltage                        |
+| 12           | 19234       | Astro-Girls                         |
+| 13           | 24610       | Mystery Machinery                   |
+| 14           | 24661       | Ram Robotics                        |
+| 15           | 29891       | AMS Penguins                        |
+| 16           | 30014       | TigerBot Team Wrecking Ball         |
+| 17           | 30015       | TigerBot Team Legacy                |
+| 18           | 31293       | Brooks Pride Bots                   |
+| 19           | 31513       | Blue Cheetahs                       |
+| 20           | 32309       | Skyrockets                          |
+| 21           | 33322       | Robot Rascals                       |
+| 22           | 39133       | Libertas Lions Omega Pride          |
+| 23           | 39227       | Fellowship of the Fries             |
+| 24           | 39374       | C.R.A.B. (Cool Robots And Builders) |
+| 25           | 39377       | DAR Middle TEKs                     |
+| 26           | 39697       | Huntsville Smarties                 |
+| 27           | 40172       | McDonnell Elementary Stingers       |
+| 28           | 41104       | Robotic Raiders                     |
+| 29           | 41105       | IkeaBots                            |
+| 30           | 42146       | ROBO Troopers                       |
+| 31           | 45352       | Linking Lions                       |
+| 32           | 46057       | Bot Tribe                           |
+| 33           | 46121       | Libertas Lions Alpha Pride          |
+| 34           | 46673       | Black Cheetahs                      |
+| 35           | 47303       | Master Builders                     |
+| 36           | 50066       | Hampton Cove Hawks                  |
 
 ### Awards
 
-| Champion's Awards | Recipient |
-| ------------------| --------- |
-| Winner            |           |
-| Finalist          |           |
-| Finalist          |           |
+| Champion's Awards | Recipient                           |
+| ------------------| ----------------------------------- |
+| Winner            | C.R.A.B. (Cool Robots and Builders) |
+| Finalist          | Libertas Lions - Omega Pride        |
+| Finalist          | Huntsville Smarties                 |
 
-| Area Awards                              | Recipient |
-| ---------------------------------------- | --------- |
-| Mechanical Design                        |           |
-| Programming                              |           |
-| Strategy & Innovation                    |           |
-| Robot Performance                        |           |
-| Research                                 |           |
-| Innovative Solution                      |           |
-| Presentation                             |           |
-| Inspiration                              |           |
-| Teamwork                                 |           |
-| Gracious Professionalism<sup>&reg;</sup> |           |
+| Area Awards                              | Recipient                      |
+| ---------------------------------------- | ------------------------------ |
+| Mechanical Design                        | Short Circuits                 |
+| Programming                              | Ram Robotics                   |
+| Strategy & Innovation                    | Libertas Lions Alpha Pride     |
+| Robot Performance                        | Ram Robotics (High Score: 450) |
+| Research                                 | DAR Middle TEKs                |
+| Innovative Solution                      | High Voltage                   |
+| Presentation                             | Mystery Machinery              |
+| Inspiration                              | TigerBot Team Bots and Bricks  |
+| Teamwork                                 | AMS Penguins                   |
+| Gracious Professionalism<sup>&reg;</sup> | Robotic Raiders                |
 
-| Judges Award | Recipient |
-| ------------ | --------- |
+| Judges Award | Recipient          |
+| ------------ | ------------------ |
+| Rising Star  | Hampton Cove Hawks |
 
-| Individual Awards           | Recipient |
-| --------------------------- | --------- |
-| Coach/Mentor Award          |           |
-| Outstanding Volunteer Award |           |
+| Global Innovation Nominees   |
+| ---------------------------- |
+| Short Circuits               |
+| Libertas Lions - Omega Pride |
 
-| Invitation             | Recipient |
-| ---------------------- | --------- |
-| World Festival         |           |
-| Razorback Invitational |           |
+| Individual Awards           | Recipient      |
+| --------------------------- | -------------- |
+| Coach/Mentor Award          | Pat Lewallen   |
+| Outstanding Volunteer Award | Melissa Snider |
+| Outstanding Volunteer Award | Brian Pappas   |
+
+| Invitation                  | Team                                |
+| --------------------------- | ----------------------------------- |
+| World Festival              | C.R.A.B. (Cool Robots and Builders) |
+| Razorback Invitational      | TBD                                 |
+| Carolinas Open Invitational | TBD                                 |
 
 ### Robot Performance Results
 | Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
 | ---- | ----- | ------- | ------- | ------- | ------- |
+| 1    | 14	   | 450     | 450     | 405     | 415     |
+| 2    | 24	   | 415     | 320     | 215     | 415     |
+| 3    | 23	   | 375     | 340     | 375     | 250     |
+| 4    | 1     | 360     | 275     | 285     | 360     |
+| 5    | 22	   | 360     | 295     | 360     | 345     |
+| 6    | 5     | 355     | 305     | 345     | 355     |
+| 7    | 9     | 355     | 315     | 355     | 310     |
+| 8    | 13	   | 340     | 255     | 340     | 315     |
+| 9    | 33	   | 330     | 320     | 310     | 330     |
+| 10   | 26	   | 310     | 295     | 310     | 290     |
+| 11   | 12	   | 305     | 270     | 305     | 275     |
+| 12   | 11	   | 300     | 270     | 260     | 300     |
+| 13   | 2     | 290     | 215     | 290     | 270     |
+| 14   | 30	   | 290     | 290     | 250     | 250     |
+| 15   | 35	   | 285     | 285     | 245     | 280     |
+| 16   | 19	   | 280     | 135     | 125     | 280     |
+| 17   | 8     | 275     | 135     | 275     | 205     |
+| 18   | 10	   | 270     | 215     | 270     | 220     |
+| 19   | 27	   | 270     | 175     | 270     | 175     |
+| 20   | 34	   | 270     | 190     | 270     | 215     |
+| 21   | 4     | 260     | 215     | 230     | 260     |
+| 22   | 6     | 255     | 255     | 80      | 205     |
+| 23   | 29	   | 245     | 220     | 245     | 235     |
+| 24   | 15	   | 230     | 190     | 205     | 230     |
+| 25   | 18	   | 220     | 220     | 180     | 195     |
+| 26   | 28	   | 215     | 145     | 135     | 215     |
+| 27   | 17	   | 210     | 210     | 205     | 200     |
+| 28   | 32	   | 210     | 210     | 165     | 195     |
+| 29   | 20	   | 205     | 205     | 195     | 195     |
+| 30   | 7     | 195     | 195     | 155     | 130     |
+| 31   | 31	   | 195     | 140     | 195     | 185     |
+| 32   | 25	   | 185     | 185     | 165     | 155     |
+| 33   | 21	   | 180     | 180     | 120     | 140     |
+| 34   | 36	   | 180     | 155     | 165     | 180     |
+| 35   | 3     | 170     | 140     | 70      | 170     |
+| 36   | 16	   | 155     | 110     | 155     | 115     |
