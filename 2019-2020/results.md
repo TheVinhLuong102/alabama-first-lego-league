@@ -452,11 +452,6 @@
 | Outstanding Volunteer Award | Melissa Snider |
 | Outstanding Volunteer Award | Brian Pappas   |
 
-| Invitation                  | Team                                |
-| --------------------------- | ----------------------------------- |
-| World Festival              | C.R.A.B. (Cool Robots and Builders) |
-| Razorback Invitational      | TBD                                 |
-| Carolinas Open Invitational | TBD                                 |
 
 ### Robot Performance Results
 | Rank | Team  | Highest | Round 1 | Round 2 | Round 3 |
