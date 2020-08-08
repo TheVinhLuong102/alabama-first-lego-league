@@ -42,7 +42,7 @@ Please be aware that if your explanation is longer than five minutes, the judges
 
 ## Core Values
 
-During the three minute reflection, the judges will ask some questions about the team's Core Values. These questions are meant to address anything about Core Values not covered during the Innovation Project and Robot Design portions of judging.
+During the three minute reflection, the judges will ask some questions about the team's Core Values. These questions are meant to address anything about Core Values not covered during the Innovation Project and Robot Design portions of judging. The judges may also ask questions about Core Values during the welcome time of judging (at the very beginning), so be ready while you're setting up!
 
 Refer to the Core Values rubric for more guidance. The better the judges can complete the rubric based on your Innovation Project Presentation, Robot Design Explanation, and reflection, the better your score!
 
